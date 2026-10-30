@@ -1,5 +1,6 @@
 # desafio-dio-app-financas
 
+#PRD Refinado no Gemini 
 # 🟢 FinVibe AI
 
 > **Gestão financeira pessoal descomplicada por meio de conversas com Inteligência Artificial.**
@@ -21,6 +22,8 @@ O **FinVibe AI** é um aplicativo de finanças pessoais focado em iniciantes que
 * [Plano de Validação do MVP](#-plano-de-validação-do-mvp)
 
 * [Prompt para Geração no Lovable](#-prompt-mestre-para-lovable)
+  
+* [Conclusão]
 
 ## 📌 Sobre o Projeto
 
@@ -168,6 +171,11 @@ Implement a fixed bottom navigation bar (or sidebar on desktop) with 3 main tabs
 
 ```
 
-## 📄 Licença
 
-Este projeto está sob a licença [MIT](LICENSE)
+
+#Interaççao com Lovable
+ > Foi colado o prompt gerado pelo Gemini acima.
+ > Pedi para que acionasse um Banco de dados local após a criação do app.
+
+#
+
