@@ -24,9 +24,9 @@ Você pode testar o app em: https://conversa-financeira-em-dia.lovable.app
 
 * [Prompt para Geração no Lovable](#-prompt-mestre-para-lovable)
 
-*[Interação com Lovable](#-Interação-com-Lovable)
+* [Interação com Lovable](#-Interação-com-Lovable)
 
-* [Conclusão]
+* [Conclusão](#-Conclusão)
 
 ## 📌 Sobre o Projeto
 
@@ -173,6 +173,14 @@ Implement a fixed bottom navigation bar (or sidebar on desktop) with 3 main tabs
 - Use mock state data using React `useState` so the user can interactively toggle sub-tabs, simulate investments, and type transactions in the chat input.
 
 ```
+**Resultado: **
+<img width="1646" height="947" alt="image" src="https://github.com/user-attachments/assets/2c7de8e2-81d9-41cd-8f62-91b590558031" />
+
+<img width="1646" height="947" alt="image" src="https://github.com/user-attachments/assets/dc185b44-2338-4932-a381-606da557cecc" />
+
+<img width="1646" height="947" alt="image" src="https://github.com/user-attachments/assets/69bce571-0188-46f2-95be-d98cf88e46ab" />
+
+
 
 
 
