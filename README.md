@@ -1,12 +1,13 @@
 # desafio-dio-app-financas
 
 #PRD Refinado no Gemini 
-# 🟢 FinVibe AI
+# 🟢 Finances Will
 
 > **Gestão financeira pessoal descomplicada por meio de conversas com Inteligência Artificial.**
 
-O **FinVibe AI** é um aplicativo de finanças pessoais focado em iniciantes que elimina a burocracia do preenchimento manual de planilhas. Através de uma interface conversacional e recomendações educativas personalizadas, o usuário registra gastos em linguagem natural e recebe orientações práticas para poupar e investir.
+O **Finances Will** é um aplicativo de finanças pessoais focado em iniciantes que elimina a burocracia do preenchimento manual de planilhas. Através de uma interface conversacional e recomendações educativas personalizadas, o usuário registra gastos em linguagem natural e recebe orientações práticas para poupar e investir.
 
+Você pode testar o app em: https://conversa-financeira-em-dia.lovable.app
 ## 📌 Sumário
 
 * [Sobre o Projeto](#-sobre-o-projeto)
@@ -22,7 +23,9 @@ O **FinVibe AI** é um aplicativo de finanças pessoais focado em iniciantes que
 * [Plano de Validação do MVP](#-plano-de-validação-do-mvp)
 
 * [Prompt para Geração no Lovable](#-prompt-mestre-para-lovable)
-  
+
+*[Interação com Lovable](#-Interação-com-Lovable)
+
 * [Conclusão]
 
 ## 📌 Sobre o Projeto
@@ -173,9 +176,11 @@ Implement a fixed bottom navigation bar (or sidebar on desktop) with 3 main tabs
 
 
 
-#Interaççao com Lovable
+##Interação com Lovable
  > Foi colado o prompt gerado pelo Gemini acima.
- > Pedi para que acionasse um Banco de dados local após a criação do app.
+ > Pedi para que acionasse um Banco de dados local para que as informaçõess do usuário ficassem salvas  ao acessar no seu navegador local.
 
-#
-
+##💬 Conclusão
+  As ferramentas como Lovable aceleram muito a criação de uma aplicação. 
+  Ferras mentas como Copalot, Chatgpt e Gemini podem agilizar um brainstorm ou  PRD por exemplo. 
+  As ferramenta podem se auto completar pedindo pra criar prompts otimizados uma para outra e tornando o processo mais simples. A criação de apps com vibe code pode ser algo poderoso combinando hard skills com prompts certos é possível criar um infinidade de aplicações  de forma rápida e  eficiente. 
